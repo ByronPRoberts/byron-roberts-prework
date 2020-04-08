@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-size: 10px;
+    height: 100%;
+    margin: 0;
+}
+
+nav {
+    margin-bottom: 20px;
+    background: grey;
+}
+
+section {
+    padding: 200px;
+    margin-bottom: 50px;
+}
+
+#left {
+    float: left;
+    width: 50%;
+    background: blue;
+}
+
+#right {
+    float: right;
+    width: 25%;
+    background: red;
+}
+
+footer {
+    background: green;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
