@@ -1,0 +1,17 @@
+body { 
+  color:rgb(51, 44, 99);
+  background-image: url("../images/pexels-photo-988872.jpeg");
+  background-size: cover;
+}
+#newGameButton {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  box-shadow: 2px 10px rgb(51, 44, 99);
+
+}
+
+.gues .gues2 {
+  color: red
+}
